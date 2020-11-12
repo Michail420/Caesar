@@ -1,12 +1,7 @@
-2020-11-01 20:14:57,935 - exampleApp - INFO - Program started
-2020-11-01 20:14:57,936 - exampleApp - INFO - Done!
-2020-11-01 20:14:58,971 - exampleApp - INFO - Program started
-2020-11-01 20:14:58,971 - exampleApp - INFO - Done!
-2020-11-01 20:14:59,415 - exampleApp - INFO - Program started
-2020-11-01 20:14:59,415 - exampleApp - INFO - Done!
-2020-11-01 20:15:45,766 - exampleApp - INFO - Program started
-2020-11-01 20:15:45,766 - exampleApp - INFO - Done!
-2020-11-01 20:15:59,353 - exampleApp - INFO - Program started
-2020-11-01 20:15:59,353 - exampleApp - INFO - Done!
-2020-11-01 20:16:13,975 - exampleApp - INFO - Program started
-2020-11-01 20:16:13,975 - exampleApp - INFO - Done!
+INFO     [2020-11-12 23:41:52,433] Программа начала работу
+DEBUG    [2020-11-12 23:41:56,072] Введеное значение не совпадает с возможными
+DEBUG    [2020-11-12 23:41:58,680] Введеное значение не совпадает с возможными
+INFO     [2020-11-12 23:42:03,000] пользователь ввел число смещений
+INFO     [2020-11-12 23:42:11,160] введен текст
+INFO     [2020-11-12 23:42:11,161] выведен результат
+INFO     [2020-11-12 23:42:11,162] Программа закончила работу
